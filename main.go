@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"learn/farm/cinema/movie"
-	ticket "learn/farm/cinema/ticket/packageticket"
+	"github.com/farmrakpong/cinema/movie"
+	ticket "github.com/farmrakpong/cinema/ticket/packageticket"
 )
 
 func init() {
