@@ -3,7 +3,7 @@ package movie
 import "fmt"
 
 func Review(name string, rating float64) {
-	fmt.Printf("!!!!%s: %f\n", name, rating)
+	fmt.Printf("%s: %f\n", name, rating)
 }
 
 func FindName(imdb string) string {
